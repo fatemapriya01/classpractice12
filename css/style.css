@@ -1,0 +1,23 @@
+.box{
+	height: 100px;
+	width: 100px;
+	background-color: violet;
+	margin-top: 10px;
+}
+.box2{
+	height: 100px;
+	background-color: violet;
+	margin-top: 10px;	
+}
+.fa-facebook-square{
+	font-size: 40px;
+	color: #4267B2;
+}
+ .fa-twitter-square{
+ 	font-size: 40px;
+ 	color: #1DA1F2;
+ }
+ .fa-google-plus-square{
+ 	font-size: 40px;
+ 	color: #D24639;
+ }
